@@ -1,0 +1,38 @@
+.search-flex{
+    
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+color:#818182;
+    margin-top: 48px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.search-flex_name{
+    display: flex;
+    flex-direction: column;
+}
+
+.search-input{
+    
+    padding: 9px 17px;
+    width: 452px;
+}
+
+.search-select{
+    color:#818182;
+   padding: 9px 12px; 
+   width: 216px;
+}
+
+.search-flex_school{
+    display: flex;
+    flex-direction: column;
+}
+
+.line{
+    margin-top: 40px;
+    width: 100%;
+    color: aliceblue;
+}

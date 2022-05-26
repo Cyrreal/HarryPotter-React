@@ -1,0 +1,30 @@
+.link-container{
+    max-width: 695px;
+    margin: 40px auto;
+}
+.link-btn{
+    
+}
+
+.favorites{
+    max-width: 695px;
+    margin: 40px auto;
+}
+
+.link-flex{
+display: flex;
+justify-content: flex-start;
+align-items: center;
+gap: 40px
+}
+
+.favorites-title{
+font-size: 52px;
+font-weight: 700;
+line-height: 63px;
+}
+.favorites-description{
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 36px;
+}

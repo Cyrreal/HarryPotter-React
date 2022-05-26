@@ -1,0 +1,18 @@
+.header-text{
+    display: flex;
+    flex-direction: column;
+}
+
+.header-text h1{
+font-size: 64px;
+font-weight: 700;
+line-height: 77px;
+letter-spacing: -0.02em;
+}
+
+.header-text p{
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 36px;
+    
+}
