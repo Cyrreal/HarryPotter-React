@@ -59,6 +59,7 @@ export function App() {
       .then((res) => res.json())
       .then((data) => setFetchData(data));
   }, []);
+  console.log(fetchData);
 
   const addToFav = (name: string) => {
     const likedItem: any = fetchData.find((item: any) => item.name === name);
